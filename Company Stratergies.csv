@@ -1,0 +1,7 @@
+Year,Total Revenue ($M),Product A Sales (units),Product B Sales (units),Market Share (%),Total Customer Tickets,Customer Satisfaction (%),Campaign Reach,Engagement Rate (%),ROI (%),R&D Expenditure ($M),New Patents Filed,Product Launches,Production Costs ($M),Logistics Cost ($M),Employee Productivity (%)
+2018,100,30000,20000,25,10000,75,500000,2.5,120,10,5,2,30,5,75
+2019,110,35000,25000,27,11000,78,600000,3,130,12,6,2,32,6,77
+2020,120,40000,30000,30,12000,80,700000,3.5,140,14,7,3,34,7,79
+2021,130,45000,35000,32,13000,85,800000,4,150,16,8,3,36,8,81
+2022,140,50000,40000,34,14000,88,900000,4.5,180,18,9,4,38,9,83
+2023,150,48000,45000,35,15000,90,1000000,5,200,20,10,4,40,10,85
